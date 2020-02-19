@@ -1,4 +1,4 @@
-package com.example.testnavigationdrawer;
+package com.example.testnavigationdrawer.ui;
 
 import android.content.Context;
 import android.content.Intent;
@@ -22,6 +22,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
+import com.example.testnavigationdrawer.R;
 import com.example.testnavigationdrawer.util.PermissionUtil;
 import com.example.testnavigationdrawer.util.Utils;
 import com.google.android.gms.location.FusedLocationProviderClient;
